@@ -1,5 +1,5 @@
-# archiescript-ruby
-A custom esolang made by thatOneArchUser, this repository contains encoder and decoder <br>
+# enscript-ruby
+A custom esolang made by dtxc, this repository contains encoder and decoder <br>
 (*rewritten in ruby by me*)
 
 ## How they works?
@@ -25,4 +25,4 @@ Encoder and Decoder listen to these commands:
 `ruby main.rb <encode/decode> <string>`
 
 ## credits
-original work by [thatOneArchUser](https://github.com/thatOneArchUser/archiescript)
+original work by [dtxc](https://github.com/XyrenTheCoder/enscript)
